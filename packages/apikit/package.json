@@ -1,0 +1,19 @@
+{
+  "name": "@mantenjp/apikit",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "@asteasolutions/zod-to-openapi": "^5.2.0",
+    "dotenv": "^16.3.1",
+    "fastify": "^4.19.2",
+    "winston": "^3.10.0",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@mantenjp/tsconfig": "workspace:^0.0.0",
+    "@types/node": "^20.4.1",
+    "typescript": "^5.1.6"
+  },
+  "license": "ISC"
+}
